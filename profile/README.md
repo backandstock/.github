@@ -2,7 +2,7 @@
 
 내 주식! 그때 샀다면 지금은 얼마일까?   
     
-#### 🔗 [Back&Stock](https://backandstock.com/)   
+#### [Back&Stock](https://backandstock.com/)   
    
 
 Back&Stock은 코스피, 코스닥에 상장된 2000여개의 주식을 백테스팅 할 수 있는 서비스 입니다.   
