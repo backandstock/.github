@@ -126,7 +126,9 @@
 </details>
 
 ## 📖 서비스 아키텍쳐
-![image](https://user-images.githubusercontent.com/44867889/161721221-af3544af-1a71-47a0-bdc3-0c6b542e05d4.png)
+
+![image](https://user-images.githubusercontent.com/44867889/161750113-83cde6c0-9be5-4c11-b5a2-467bb7517b8b.png)
+
 
 
 
