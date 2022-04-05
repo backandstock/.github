@@ -1,97 +1,181 @@
-# <img src="https://user-images.githubusercontent.com/44867889/160412944-c59a715a-7315-4aaf-9147-c41e88d0b51d.png" align=left width=100> Back & Stock
+![logo_2_se](https://user-images.githubusercontent.com/90660499/161553410-235c6382-ba6f-47cf-8985-5638a29720d6.png)
 
-내 주식! 그때 샀다면 지금은 얼마일까?   
-    
-#### [Back&Stock](https://backandstock.com/)   
-   
+<br>
 
-Back&Stock은 코스피, 코스닥에 상장된 2000여개의 주식을 백테스팅 할 수 있는 서비스 입니다.   
+## 💻 프로젝트 소개
+> ### Back & Stock <br>
+> Back & Stock은 과거 10년 치 주식 데이터로 자신의 투자 전략을 실험해 보는 서비스입니다.
+
+<!-- |실험하기|결과보기|
+|:-:|:-:|
+|![실험하기](https://user-images.githubusercontent.com/44867889/161731672-5d03dd49-35b5-4f95-88a6-6b547a445754.png)|![결과보기](https://user-images.githubusercontent.com/44867889/161731706-c63856ca-b4d5-4c5f-8155-0dfa8ca36b0a.png)| -->
+
+
+#### 📆 프로젝트 기간 <br>
+
+- 2022/02/25 ~ 2022/04/08
+
+[\[Back&Stock 바로가기\]](https://backandstock.com)
+<br><br>
+
+<!-- Back&Stock은 코스피, 코스닥에 상장된 2000여개의 주식을 백테스팅 할 수 있는 서비스 입니다.   
 2011년 부터 2022년 2월까지의 데이터를 통해 백테스팅이 가능하며, 원하는 기간을 선택하고 자산 별로 비율을 선택 할 수 있습니다.  
-마이페이지에서는 저장한 포트폴리오끼리 비교해 볼 수 있습니다.  
-    
-**Back&Stock에서 백테스팅을 시작하세요!**    
+마이페이지에서는 저장한 포트폴리오끼리 비교해 볼 수 있습니다.   -->
+
+## 🔧 주요 기능
+<br>
+
+<details> 
+  <summary><strong>🔎 과거의 데이터로 백테스팅 실험</strong></summary>
+  <br/>
+  <ul>
+    <li>Back&Stock은 10년치 과거 주식 데이터를 이용하여 KOSPI와 KOSDAQ에 상장된 주식들을 실험할 수 있습니다.</li>
+    <li>백테스팅 실험을 통해 자신의 주식 전략이 어떻게 수행되었는지 확인하고, 전략의 실행 가능성을 확인해 보세요.</li>
+  </ul>
+</details>
+
+<details> 
+  <summary><strong>💰 실험 결과 활용하기</strong></summary>
+  <br/>
+  <ul>
+    <li>총 수익률 및 수익금, 최고의 달, 최악의 달, 월 별 자산과 수익률 그래프까지 
+        실험 결과를 확인해 보세요.</li>
+    <li>실험한 결과를 <나만의 포토폴리오>에 저장하여 언제든 다시 확인해 볼 수 있습니다.</li>
+  </ul>
+</details>
+
+<details> 
+  <summary><strong>📥 저장한 포트폴리오 비교하기</strong></summary>
+  <br/>
+  <ul>
+    <li>자신이 만든 포트폴리오를 비교하여 어떠한 전략이 효율적인지 비교해 보세요.</li>
+    <li>저장한 포트폴리오 중 실망한 전략을 삭제하고 다시 실험할 수 있습니다.</li>
+  </ul>
+</details>
+
+<details> 
+  <summary><strong>👫 사람들과 공유하는 커뮤니티</strong></summary>
+  <br/>
+  <ul>
+    <li>자신이 만든 포트폴리오를 사람들과 공유하고 자랑하세요!</li>
+    <li>다른 사용자가 만든 포트폴리오를 보고 정보를 공유하거나 자신의 전략에 맞게 수정할 수 있습니다.</li>
+  </ul>
+</details>
+<br>
  
 
 ## 👥 Team Members  
-**`Back-end (Spring)`**
+
+| 이름     | 깃허브 주소                                                | 포지션     |
+|:--------:|:----------------------------------------------------------:|:-----------:|
+| 오예준🔰   | [https://github.com/oagree0123](https://github.com/oagree0123)                     | 프론트엔드 |
+| 안소진   | [https://github.com/sojin0106](https://github.com/sojin0106)                       | 프론트엔드 |
+| 박유선🔰   | [https://github.com/pyuseon](https://github.com/pyuseon)                         | 백엔드 |
+| 김정근   | [https://github.com/thethe133](https://github.com/thethe133)                     | 백엔드 |
+| 정선모   | [https://github.com/wjdtjsah12](https://github.com/wjdtjsah12)                     | 백엔드 |
+| 안수현   |                     | 디자인 |
+| 이혜림   |                     | 디자인 |
+
+**Team Leader : 박유선 / FE Leader : 오예준**    
+
+<!-- **`Back-end (Spring)`**
 - [김정근](https://github.com/thethe133), [정선모](https://github.com/wjdtjsah12), [박유선(Team Leader)](https://github.com/pyuseon)
 
 **`Frontend (React)`**
 - [오예준(FE Leader)](https://github.com/oagree0123), [안소진](https://github.com/sojin0106)
 
 **`Design`**
-- 안수현, 이혜림   
+- 안수현, 이혜림    -->
 
 
-## 🗓 프로젝트 기간
-* 2022년 2월 25일 ~ 2022년 4월 9일   
-* 배포 : 2022년 3월 28일
+## 🎈 LINK  
 
-## 📜 ER 다이어그램     
+* Back&Stock 바로가기 : https://backandstock.com
+* 백엔드 깃허브 : https://github.com/backandstock/backandstock_BE
+* 프론트엔드 깃허브 : https://github.com/backandstock/backandstock_FE  
+* 파이썬(주식데이터 업로드) : https://github.com/backandstock/backandstock_python
+* 유튜브 링크 : 
+* 노션 링크 : https://www.notion.so/Back-Stock-1acd036bee654077a6d85cac255cc581
+
+
+## 📜 ERD     
     
 <img src="https://user-images.githubusercontent.com/44867889/160381158-175be13e-af10-4811-8c02-416ec278d1d1.png" width="80%" height="80%">   
-
-
-## ✨ 핵심기능
-**`백테스팅`**
-
-
-
-## 🐛 트러블 슈팅
 
 
 ## 🔨 API 설계   
 
 #### 🔗 [API link](https://www.notion.so/e72d3d2dc8d04e0380a27a4ea022571f?v=16e46006276e41f8a48c3e398d52fd57)   
 
-Book Cafe (Front-End)
-thumb preview
-
-여러 사람들과 책을 같이 읽고 토론 하고 싶을 때 모임을 만들어봐요.
-
-모임 마감 일자, 모임 인원을 설정할 수 있어요. 마이페이지에서는 내가 참여한 모임을 확인 할 수 있어요.
 
 
-## 📖 상세 페이지
+<details>
+<summary>API</summary>
+<div markdown="1">       
+
+![image](https://user-images.githubusercontent.com/44867889/161730521-4802d772-d004-4701-867c-c2a12bb776bb.png)   
+
+![image](https://user-images.githubusercontent.com/44867889/161730578-bcf3139a-d94f-4614-8c82-5e5e2f445ed8.png)
+
+</div>
+</details>
+
+## 📖 서비스 아키텍쳐
+![image](https://user-images.githubusercontent.com/44867889/161721221-af3544af-1a71-47a0-bdc3-0c6b542e05d4.png)
 
 
-
-## 🎈 LINK  
-🎥 유튜브 링크 : 
-
-📔 노션 링크 : 
-
+## 🐛 트러블 슈팅
 
 
 
 
 ## 🛠 Tech Stack
-**Frontend Tech Stack**  
-<img src="https://img.shields.io/badge/React-60d3f3?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-7247b5?style=for-the-badge&logo=redux&logoColor=white">     
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-
-
-**Backend Tech Stack**     
+<div align=center><b>Backend Tech Stack</b></div>
+<p align="center">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/spring data jpa-F28D1A?style=for-the-badge&logo=springdatajpa&logoColor=white">
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+
+<br>
+<img src="https://img.shields.io/badge/aws ec2-07C160?style=for-the-badge&logo=amazoneaws&logoColor=white">
+<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
+<img src="https://img.shields.io/badge/aws codedeploy-9D1620?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+
+<br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white">   
+    
+<br>
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+ <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
+</p>
+</br>
+</br>
 
 
-Other
-Firebase Storage(Image Upload)
+<div align=center><b>Frontend Tech Stack</b></div>
+<p align="center">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=react&logoColor=black">
+<br>
+<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
+<img src="https://img.shields.io/badge/cloudfront-04ACE6?style=for-the-badge&logo=cloudfront&logoColor=white">
+<img src="https://img.shields.io/badge/route53-F7A81B?style=for-the-badge&logo=route53&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+</br>
+</br>
 
-<!-- 
 
 
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> -->
+
