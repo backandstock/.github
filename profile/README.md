@@ -6,9 +6,12 @@
 > ### Back & Stock <br>
 > Back & Stock은 과거 10년 치 주식 데이터로 자신의 투자 전략을 실험해 보는 서비스입니다.
 
-<!-- |실험하기|결과보기|
+
+    
+      
+|실험하기|결과보기|
 |:-:|:-:|
-|![실험하기](https://user-images.githubusercontent.com/44867889/161731672-5d03dd49-35b5-4f95-88a6-6b547a445754.png)|![결과보기](https://user-images.githubusercontent.com/44867889/161731706-c63856ca-b4d5-4c5f-8155-0dfa8ca36b0a.png)| -->
+|![실험하기](https://user-images.githubusercontent.com/44867889/161731672-5d03dd49-35b5-4f95-88a6-6b547a445754.png)|![결과보기](https://user-images.githubusercontent.com/44867889/161731706-c63856ca-b4d5-4c5f-8155-0dfa8ca36b0a.png)|
 
 
 #### 📆 프로젝트 기간 <br>
@@ -66,6 +69,8 @@
 
 ## 👥 Team Members  
 
+**Team Leader : 박유선 / FE Leader : 오예준**    
+
 | 이름     | 깃허브 주소                                                | 포지션     |
 |:--------:|:----------------------------------------------------------:|:-----------:|
 | 오예준🔰   | [https://github.com/oagree0123](https://github.com/oagree0123)                     | 프론트엔드 |
@@ -76,7 +81,7 @@
 | 안수현   |                     | 디자인 |
 | 이혜림   |                     | 디자인 |
 
-**Team Leader : 박유선 / FE Leader : 오예준**    
+
 
 <!-- **`Back-end (Spring)`**
 - [김정근](https://github.com/thethe133), [정선모](https://github.com/wjdtjsah12), [박유선(Team Leader)](https://github.com/pyuseon)
@@ -122,9 +127,6 @@
 
 ## 📖 서비스 아키텍쳐
 ![image](https://user-images.githubusercontent.com/44867889/161721221-af3544af-1a71-47a0-bdc3-0c6b542e05d4.png)
-
-
-## 🐛 트러블 슈팅
 
 
 
