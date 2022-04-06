@@ -127,10 +127,8 @@
 
 ## 📖 서비스 아키텍쳐
 
-![image](https://user-images.githubusercontent.com/44867889/161750113-83cde6c0-9be5-4c11-b5a2-467bb7517b8b.png)
 
-
-
+![image](https://user-images.githubusercontent.com/44867889/161977421-0fdc8912-ce98-4adf-9e58-0688fed9b8cf.png)
 
 
 ## 🛠 Tech Stack
