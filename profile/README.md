@@ -127,8 +127,7 @@
 
 ## 📖 서비스 아키텍쳐
 
-
-![image](https://user-images.githubusercontent.com/44867889/161977421-0fdc8912-ce98-4adf-9e58-0688fed9b8cf.png)
+![image](https://user-images.githubusercontent.com/44867889/162220038-0b32b522-6d07-43f5-ae7c-e562669cb1bb.png)
 
 
 ## 🛠 Tech Stack
